@@ -10,7 +10,7 @@ spring:
     config:
       server:
         git:
-          uri: https://git.oschina.net/chrywhy/test
-          searchPaths: spring-cloud/helloworldConfig
+          uri: https://github.com/JohnKenway/swwebsite
+          searchPaths: config
   application:
     name: config-server
